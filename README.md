@@ -1,4 +1,4 @@
-ansible-nginx
+ansible-metricbeat
 =========
 
 This role installs and sets up Metricbeat package on Ubuntu.
@@ -101,7 +101,7 @@ None
 
 Example Playbook
 ----------------
-- Install nginx with a custom site template
+- Install metricbeat setted up with a custom elasticsearch endpoint
 
 ```
   hosts:
